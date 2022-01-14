@@ -1,0 +1,11 @@
+C:\Users\79261\source\repos\TrainingTest\DeploymentItemAttributeSample\bin\Debug\net6.0\DeploymentItemAttributeSample.deps.json
+C:\Users\79261\source\repos\TrainingTest\DeploymentItemAttributeSample\bin\Debug\net6.0\DeploymentItemAttributeSample.dll
+C:\Users\79261\source\repos\TrainingTest\DeploymentItemAttributeSample\bin\Debug\net6.0\ref\DeploymentItemAttributeSample.dll
+C:\Users\79261\source\repos\TrainingTest\DeploymentItemAttributeSample\bin\Debug\net6.0\DeploymentItemAttributeSample.pdb
+C:\Users\79261\source\repos\TrainingTest\DeploymentItemAttributeSample\obj\Debug\net6.0\DeploymentItemAttributeSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79261\source\repos\TrainingTest\DeploymentItemAttributeSample\obj\Debug\net6.0\DeploymentItemAttributeSample.AssemblyInfoInputs.cache
+C:\Users\79261\source\repos\TrainingTest\DeploymentItemAttributeSample\obj\Debug\net6.0\DeploymentItemAttributeSample.AssemblyInfo.cs
+C:\Users\79261\source\repos\TrainingTest\DeploymentItemAttributeSample\obj\Debug\net6.0\DeploymentItemAttributeSample.csproj.CoreCompileInputs.cache
+C:\Users\79261\source\repos\TrainingTest\DeploymentItemAttributeSample\obj\Debug\net6.0\DeploymentItemAttributeSample.dll
+C:\Users\79261\source\repos\TrainingTest\DeploymentItemAttributeSample\obj\Debug\net6.0\ref\DeploymentItemAttributeSample.dll
+C:\Users\79261\source\repos\TrainingTest\DeploymentItemAttributeSample\obj\Debug\net6.0\DeploymentItemAttributeSample.pdb

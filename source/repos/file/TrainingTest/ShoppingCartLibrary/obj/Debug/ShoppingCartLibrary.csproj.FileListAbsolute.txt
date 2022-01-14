@@ -1,0 +1,5 @@
+C:\Users\79261\source\repos\TrainingTest\ShoppingCartLibrary\bin\Debug\ShoppingCartLibrary.dll
+C:\Users\79261\source\repos\TrainingTest\ShoppingCartLibrary\bin\Debug\ShoppingCartLibrary.pdb
+C:\Users\79261\source\repos\TrainingTest\ShoppingCartLibrary\obj\Debug\ShoppingCartLibrary.csproj.CoreCompileInputs.cache
+C:\Users\79261\source\repos\TrainingTest\ShoppingCartLibrary\obj\Debug\ShoppingCartLibrary.dll
+C:\Users\79261\source\repos\TrainingTest\ShoppingCartLibrary\obj\Debug\ShoppingCartLibrary.pdb

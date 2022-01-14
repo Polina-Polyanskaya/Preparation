@@ -1,0 +1,11 @@
+C:\Users\79261\source\repos\TrainingTest\SimpleClassLibrary\bin\Debug\net6.0\SimpleClassLibrary.deps.json
+C:\Users\79261\source\repos\TrainingTest\SimpleClassLibrary\bin\Debug\net6.0\SimpleClassLibrary.dll
+C:\Users\79261\source\repos\TrainingTest\SimpleClassLibrary\bin\Debug\net6.0\ref\SimpleClassLibrary.dll
+C:\Users\79261\source\repos\TrainingTest\SimpleClassLibrary\bin\Debug\net6.0\SimpleClassLibrary.pdb
+C:\Users\79261\source\repos\TrainingTest\SimpleClassLibrary\obj\Debug\net6.0\SimpleClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79261\source\repos\TrainingTest\SimpleClassLibrary\obj\Debug\net6.0\SimpleClassLibrary.AssemblyInfoInputs.cache
+C:\Users\79261\source\repos\TrainingTest\SimpleClassLibrary\obj\Debug\net6.0\SimpleClassLibrary.AssemblyInfo.cs
+C:\Users\79261\source\repos\TrainingTest\SimpleClassLibrary\obj\Debug\net6.0\SimpleClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\79261\source\repos\TrainingTest\SimpleClassLibrary\obj\Debug\net6.0\SimpleClassLibrary.dll
+C:\Users\79261\source\repos\TrainingTest\SimpleClassLibrary\obj\Debug\net6.0\ref\SimpleClassLibrary.dll
+C:\Users\79261\source\repos\TrainingTest\SimpleClassLibrary\obj\Debug\net6.0\SimpleClassLibrary.pdb

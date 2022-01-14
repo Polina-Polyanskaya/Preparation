@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UserDetails>
+	<User userid="Dmitriy" phone="+38 000 123 23 42" email="dmitriy@itvdn.com"/>
+	<User userid="Ivan" phone="+38 000 123 23 42" email="ivan@itvdn.com"/>
+	<User userid="Alex" phone="+38 000 123 23 42" email="alex@itvdn.com"/>
+	<User userid="Oleg" phone="+38 000 123 23 42" email="oleg@itvdn.com"/>
+	<User userid="Petro" phone="+38 000 123 23 42" email="p@cbsarea.com"/>
+	<User userid="Roman" phone="+38 000 123 23 42" email="roman@itvdn.com"/>
+	<User userid="Nikolay" phone="+38 000 123 23 42" email="nikolay@test.com"/>
+</UserDetails>

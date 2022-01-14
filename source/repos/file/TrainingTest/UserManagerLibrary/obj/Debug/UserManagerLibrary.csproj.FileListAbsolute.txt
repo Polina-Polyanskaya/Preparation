@@ -1,0 +1,5 @@
+C:\Users\79261\source\repos\TrainingTest\UserManagerLibrary\bin\Debug\UserManagerLibrary.dll
+C:\Users\79261\source\repos\TrainingTest\UserManagerLibrary\bin\Debug\UserManagerLibrary.pdb
+C:\Users\79261\source\repos\TrainingTest\UserManagerLibrary\obj\Debug\UserManagerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\79261\source\repos\TrainingTest\UserManagerLibrary\obj\Debug\UserManagerLibrary.dll
+C:\Users\79261\source\repos\TrainingTest\UserManagerLibrary\obj\Debug\UserManagerLibrary.pdb

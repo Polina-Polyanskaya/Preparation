@@ -1,0 +1,5 @@
+C:\Users\79261\source\repos\TrainingTest\TrainingTest\bin\Debug\TrainingTest.dll
+C:\Users\79261\source\repos\TrainingTest\TrainingTest\bin\Debug\TrainingTest.pdb
+C:\Users\79261\source\repos\TrainingTest\TrainingTest\obj\Debug\MainModule.csproj.CoreCompileInputs.cache
+C:\Users\79261\source\repos\TrainingTest\TrainingTest\obj\Debug\TrainingTest.dll
+C:\Users\79261\source\repos\TrainingTest\TrainingTest\obj\Debug\TrainingTest.pdb
