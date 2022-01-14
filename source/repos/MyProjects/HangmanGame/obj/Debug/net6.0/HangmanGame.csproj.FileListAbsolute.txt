@@ -1,0 +1,15 @@
+C:\Users\79261\source\repos\MyProjects\HangmanGame\bin\Debug\net6.0\HangmanGame.exe
+C:\Users\79261\source\repos\MyProjects\HangmanGame\bin\Debug\net6.0\HangmanGame.deps.json
+C:\Users\79261\source\repos\MyProjects\HangmanGame\bin\Debug\net6.0\HangmanGame.runtimeconfig.json
+C:\Users\79261\source\repos\MyProjects\HangmanGame\bin\Debug\net6.0\HangmanGame.dll
+C:\Users\79261\source\repos\MyProjects\HangmanGame\bin\Debug\net6.0\ref\HangmanGame.dll
+C:\Users\79261\source\repos\MyProjects\HangmanGame\bin\Debug\net6.0\HangmanGame.pdb
+C:\Users\79261\source\repos\MyProjects\HangmanGame\obj\Debug\net6.0\HangmanGame.csproj.AssemblyReference.cache
+C:\Users\79261\source\repos\MyProjects\HangmanGame\obj\Debug\net6.0\HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79261\source\repos\MyProjects\HangmanGame\obj\Debug\net6.0\HangmanGame.AssemblyInfoInputs.cache
+C:\Users\79261\source\repos\MyProjects\HangmanGame\obj\Debug\net6.0\HangmanGame.AssemblyInfo.cs
+C:\Users\79261\source\repos\MyProjects\HangmanGame\obj\Debug\net6.0\HangmanGame.csproj.CoreCompileInputs.cache
+C:\Users\79261\source\repos\MyProjects\HangmanGame\obj\Debug\net6.0\HangmanGame.dll
+C:\Users\79261\source\repos\MyProjects\HangmanGame\obj\Debug\net6.0\ref\HangmanGame.dll
+C:\Users\79261\source\repos\MyProjects\HangmanGame\obj\Debug\net6.0\HangmanGame.pdb
+C:\Users\79261\source\repos\MyProjects\HangmanGame\obj\Debug\net6.0\HangmanGame.genruntimeconfig.cache

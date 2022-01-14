@@ -1,0 +1,6 @@
+C:\Users\79261\source\repos\TestPractice\TestPractice\bin\Debug\TestPractice.dll
+C:\Users\79261\source\repos\TestPractice\TestPractice\bin\Debug\TestPractice.pdb
+C:\Users\79261\source\repos\TestPractice\TestPractice\obj\Debug\TestPractice.csproj.AssemblyReference.cache
+C:\Users\79261\source\repos\TestPractice\TestPractice\obj\Debug\TestPractice.csproj.CoreCompileInputs.cache
+C:\Users\79261\source\repos\TestPractice\TestPractice\obj\Debug\TestPractice.dll
+C:\Users\79261\source\repos\TestPractice\TestPractice\obj\Debug\TestPractice.pdb
